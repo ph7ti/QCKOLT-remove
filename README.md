@@ -1,5 +1,6 @@
-QCKOLT-remove
+QCKOLT-remove - 
 Script para remoção automatizada de seriais em lote nas OLTs Huawei
+
 O QCKOLT-remove é um script que automatiza a remoção dos seriais de ONUs/ONTs cadastrados em OLTs HUAWEI. Ainda em fase de testes, mas já consegue efetuar a remoção segura nas OLTs MA5603T HUAWEI.
 
 
